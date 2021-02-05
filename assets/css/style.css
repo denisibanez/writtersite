@@ -97,6 +97,17 @@ Version: 1.0
 /*--------------------------------------------------------------
 # Typography
 --------------------------------------------------------------*/
+@media(min-width: 1024px) {
+  .mt-fix {
+    margin-top: 300px;
+  }
+}
+
+.scroll {
+  overflow-y: scroll;
+  height: 150px;
+}
+
 html {
   font-size: 100%;
 }
