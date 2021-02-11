@@ -6684,7 +6684,7 @@ a:hover, a:active {
   }
   .hero-block.style-two .hero-thumbnail-area {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 65px;
   }
 }
 @media only screen and (max-width: 575px) {
@@ -6954,7 +6954,7 @@ a:hover, a:active {
     padding-top: 155px;
   }
   .hero-block.style-four .hero-thumbnail-area {
-    margin-top: 50px;
+    margin-top: 65px;
   }
 }
 @media only screen and (max-width: 575px) {
@@ -7028,6 +7028,8 @@ a:hover, a:active {
   -webkit-transform: translateY(100px);
   -ms-transform: translateY(100px);
   transform: translateY(100px);
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 .hero-block.hero-personal .social-status > a {
   color: white;
@@ -7040,6 +7042,7 @@ a:hover, a:active {
   margin-top: 120px;
 }
 .hero-block.hero-personal .hero-thumbnail-area {
+  margin-top: 65px;
   margin-right: -195px;
   margin-left: -105px;
 }
@@ -7064,7 +7067,7 @@ a:hover, a:active {
     font-size: 48px;
   }
   .hero-block.hero-personal .social-status {
-    margin-top: 65px;
+    margin-top: 15px;
   }
 }
 @media only screen and (max-width: 1199px) {
